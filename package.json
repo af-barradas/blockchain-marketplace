@@ -20,7 +20,7 @@
     "url": "https://github.com/af-barradas/blockchain-network/issues"
   },
   "homepage": "https://github.com/af-barradas/blockchain-network#readme",
-  "devDependencies": {
-    "openzeppelin-solidity": "^4.5.0"
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
   }
 }
