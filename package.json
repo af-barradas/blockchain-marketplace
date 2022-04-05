@@ -1,0 +1,26 @@
+{
+  "name": "blockchain-network",
+  "version": "1.0.0",
+  "description": "This code allows to create a custom token and trade it in a local blockchain network.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/af-barradas/blockchain-network.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/af-barradas/blockchain-network/issues"
+  },
+  "homepage": "https://github.com/af-barradas/blockchain-network#readme",
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.5.0"
+  }
+}

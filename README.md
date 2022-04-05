@@ -15,9 +15,7 @@ npm -v
 
 If not click [here](https://nodejs.org/en/download/).
 
-Versions used in this project:
-node v16.14.2
-npm 8.5.0
+Versions used in this project: node v16.14.2, npm 8.5.0.
 
 ### Truffle
 
@@ -39,8 +37,7 @@ If you ran into an error with truffle installation try the following command:
 npm install -g truffle@5.4.29
 ```
 
-Versions used in this project:
-truffle v5.4.29
+Versions used in this project: truffle v5.4.29.
 
 ## Usage
 
