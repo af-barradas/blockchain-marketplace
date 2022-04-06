@@ -1,4 +1,4 @@
-const MyToken = artifacts.require('myToken')
+const MyToken = artifacts.require('MyToken')
 
 contract('MyToken', (accounts) => {
     before(async () => {
