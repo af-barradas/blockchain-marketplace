@@ -1,4 +1,4 @@
-# Local Blockchain Network
+# Local Blockchain Marketplace
 
 This code allows to create a custom token and trade it in a local blockchain network.
 
